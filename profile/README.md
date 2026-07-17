@@ -1,6 +1,4 @@
-# Witamy w kodzie Studio A7! 
-
-# 🚀 Welcome to Studio A7 Creative Digital AI Agency
+ # 🚀 Welcome to Studio A7 Creative Digital AI Agency
 
 We are a technology-driven **Digital AI Agency** proudly based in the heart of **Gdańsk, Poland (Tricity)**. 
 
@@ -17,18 +15,6 @@ We specialize in combining traditional, robust programming with cutting-edge art
 *   **Custom Web Development:** Fluent in **PHP** and **JavaScript**, we build secure, scalable, and lightning-fast foundations for modern web applications and corporate platforms.
 *   **Advanced WordPress Ecosystem:** We don't just install WordPress; we engineer it. We specialize in custom theme development and creating bespoke plugins (like our *losowe-cytaty* repo) tailored to highly specific business logic.
 *   **AI Integration & Automation:** We implement practical Artificial Intelligence solutions into everyday digital products, automating processes and making apps smarter.
-
----
-
-### 🧠 Open Source & Community
-
-We believe in giving back to the developer community. In our repositories below, you will find:
-*   Custom tweaks and utility scripts that make everyday coding easier.
-*   WordPress plugins built for performance.
-*   Experimental code where we test the limits of AI in web development.
-
-Feel free to fork, star, and contribute! 
-
 ---
 
 ### 📫 Let's Connect & Collaborate
