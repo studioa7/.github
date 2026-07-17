@@ -1,15 +1,43 @@
-# Witamy w kodzie Studio A7! 🚀
+# Witamy w kodzie Studio A7! 
 
-Jesteśmy **creative digital AI Agency** z siedzibą w Gdańsku. Łączymy kreatywność, potęgę sztucznej inteligencji i solidny web development, aby dostarczać nieszablonowe projekty cyfrowe.
+# 🚀 Welcome to Studio A7 Creative Digital AI Agency
 
-### 🛠️ W czym rzeźbimy?
-*   **Główne technologie:** PHP, JavaScript
-*   **Ekosystemy:** WordPress (tworzymy customowe wtyczki, np. nasze *losowe-cytaty*)
-*   **Innowacje:** Implementacja rozwiązań opartych na AI w produktach cyfrowych
+We are a technology-driven **Digital AI Agency** proudly based in the heart of **Gdańsk, Poland (Tricity)**. 
 
-### 📫 Znajdziesz nas tutaj:
-*   [Nasza strona](https://studioa7.pl)
-*   [Linktree](https://linktr.ee/studioa7)
-*   Kontakt: kontakt@studioa7.pl
+At Studio A7, we bridge the gap between bold, creative ideas and flawless technical execution. Whether you are a developer exploring our open-source tools or a business looking for a technological partner to build scalable web applications, you are in the right place. 
 
-*Chcesz zobaczyć, nad czym obecnie pracujemy? Sprawdź nasze repozytoria poniżej!* 👇
+We don't just write code; we build smart digital experiences. As our motto says: *We feed our AI the best code.* 🚀
+
+---
+
+### 🛠️ Our Tech Stack & Expertise
+
+We specialize in combining traditional, robust programming with cutting-edge artificial intelligence. Here is what we do under the hood:
+
+*   **Custom Web Development:** Fluent in **PHP** and **JavaScript**, we build secure, scalable, and lightning-fast foundations for modern web applications and corporate platforms.
+*   **Advanced WordPress Ecosystem:** We don't just install WordPress; we engineer it. We specialize in custom theme development and creating bespoke plugins (like our *losowe-cytaty* repo) tailored to highly specific business logic.
+*   **AI Integration & Automation:** We implement practical Artificial Intelligence solutions into everyday digital products, automating processes and making apps smarter.
+
+---
+
+### 🧠 Open Source & Community
+
+We believe in giving back to the developer community. In our repositories below, you will find:
+*   Custom tweaks and utility scripts that make everyday coding easier.
+*   WordPress plugins built for performance.
+*   Experimental code where we test the limits of AI in web development.
+
+Feel free to fork, star, and contribute! 
+
+---
+
+### 📫 Let's Connect & Collaborate
+
+Want to talk about a new project, AI integrations, or just geek out about code? Reach out to us:
+
+*   **Website:** [studioa7.pl](https://studioa7.pl)
+*   **All our links:** [Linktree / Studio A7](https://linktr.ee/studioa7)
+*   **Business & Collabs:** [kontakt@studioa7.pl](mailto:kontakt@studioa7.pl)
+*   **Location:** Gdańsk, Pomeranian Voivodeship, Poland 🇵🇱
+
+*Check out what we are currently working on in our pinned repositories below!* 👇
